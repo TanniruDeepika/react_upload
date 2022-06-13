@@ -38,7 +38,7 @@ console.log(error)
     Again <br/>
     Login</h3>
        
-       <NavLink to='/con'  ><h4 className='add'>   Go to Contact</h4></NavLink>   
+       <NavLink to='/login'  ><h4 className='add'>   Login</h4></NavLink>   
         </centre></div>
   )
 }
